@@ -21,7 +21,7 @@
         "key": 1893,
         "name": "Roger Penrose",
         "img": "https://randomuser.me/api/portraits/men/91.jpg",
-        "specialist": "Mathematics & Physics",
+        "specialist": "Physics",
         "graduatedFrom": "University of Edinburgh",
         "researchPublished": 8,
         "salary": 18000
@@ -93,7 +93,7 @@
         "key": 5441,
         "name": "George Whitesides",
         "img": "https://randomuser.me/api/portraits/men/10.jpg",
-        "specialist": "Chemistry—Spectroscopy",
+        "specialist": "Chemistry",
         "graduatedFrom": "Yonsei University",
         "researchPublished": 8,
         "salary": 31000
@@ -102,7 +102,7 @@
         "key": 7724,
         "name": "Edward Wilson",
         "img": "https://randomuser.me/api/portraits/men/26.jpg",
-        "specialist": "Biology—Myrmecology",
+        "specialist": "Myrmecology",
         "graduatedFrom": "University of Washington",
         "researchPublished": 21,
         "salary": 22000
