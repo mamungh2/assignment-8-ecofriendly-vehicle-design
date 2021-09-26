@@ -1,0 +1,110 @@
+[
+    {
+        "key": 1352,
+        "name": "Ronald Evans",
+        "img": "https://randomuser.me/api/portraits/men/83.jpg",
+        "specialist": "Neuroscience",
+        "graduatedFrom": "Stanford University",
+        "researchPublished": 13,
+        "salary": 24000
+    },
+    {
+        "key": 5825,
+        "name": "Alain Aspect",
+        "img": "https://randomuser.me/api/portraits/men/21.jpg",
+        "specialist": "Quantum Theory",
+        "graduatedFrom": "University of Chicago",
+        "researchPublished": 19,
+        "salary": 20000
+    },
+    {
+        "key": 1893,
+        "name": "Roger Penrose",
+        "img": "https://randomuser.me/api/portraits/men/91.jpg",
+        "specialist": "Mathematics & Physics",
+        "graduatedFrom": "University of Edinburgh",
+        "researchPublished": 8,
+        "salary": 18000
+    },
+    {
+        "key": 9664,
+        "name": "Mildred Dresselhaus",
+        "img": "https://randomuser.me/api/portraits/men/80.jpg",
+        "specialist": "Carbon Science",
+        "graduatedFrom": "Peking University",
+        "researchPublished": 5,
+        "salary": 10000
+    },
+    {
+        "key": 2725,
+        "name": "Charles Kao",
+        "img": "https://randomuser.me/api/portraits/men/33.jpg",
+        "specialist": "Fiber Optics",
+        "graduatedFrom": "University of Tokyo",
+        "researchPublished": 26,
+        "salary": 30000
+    },
+    {
+        "key": 1797,
+        "name": "Martin Karplus",
+        "img": "https://randomuser.me/api/portraits/men/31.jpg",
+        "specialist": "Quantum Chemistry",
+        "graduatedFrom": "McGill University",
+        "researchPublished": 35,
+        "salary": 40000
+    },
+    {
+        "key": 4794,
+        "name": "Gordon Moore",
+        "img": "https://randomuser.me/api/portraits/men/78.jpg",
+        "specialist": "Physicist",
+        "graduatedFrom": "University of Melbourne",
+        "researchPublished": 7,
+        "salary": 14000
+    },
+    {
+        "key": 2413,
+        "name": "James Tour",
+        "img": "https://randomuser.me/api/portraits/men/20.jpg",
+        "specialist": "Nanotechnology",
+        "graduatedFrom": "University of Zurich",
+        "researchPublished": 15,
+        "salary": 21000
+    },
+    {
+        "key": 9914,
+        "name": "Charles Townes",
+        "img": "https://randomuser.me/api/portraits/men/28.jpg",
+        "specialist": "Quantum Electronics",
+        "graduatedFrom": "Sorbonne University",
+        "researchPublished": 16,
+        "salary": 27000
+    },
+    {
+        "key": 7138,
+        "name": "Steven Weinberg",
+        "img": "https://randomuser.me/api/portraits/men/69.jpg",
+        "specialist": "Theoretical Physics",
+        "graduatedFrom": "University of Copenhagen",
+        "researchPublished": 22,
+        "salary": 29000
+    },
+    {
+        "key": 5441,
+        "name": "George Whitesides",
+        "img": "https://randomuser.me/api/portraits/men/10.jpg",
+        "specialist": "Chemistry—Spectroscopy",
+        "graduatedFrom": "Yonsei University",
+        "researchPublished": 8,
+        "salary": 31000
+    },
+    {
+        "key": 7724,
+        "name": "Edward Wilson",
+        "img": "https://randomuser.me/api/portraits/men/26.jpg",
+        "specialist": "Biology—Myrmecology",
+        "graduatedFrom": "University of Washington",
+        "researchPublished": 21,
+        "salary": 22000
+    }
+]

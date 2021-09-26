@@ -1,0 +1,10 @@
+.card-text p {
+    margin-bottom: 3px;
+}
+.field-style {
+    font-weight: 500;
+}
+.iconStyle {
+    color: rgb(203, 248, 38);
+    margin-right: 8px;
+}
